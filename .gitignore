@@ -1,0 +1,17 @@
+# Ignore everything at the top level
+/*
+
+# Unignore all directories so we can traverse into subfolders
+!*/
+
+# Unignore Python files anywhere
+!*.py
+!**/*.py
+!*.ipynb
+
+!.gitignore
+/ACCESS_latex_template_20240429/
+
+*.pdf
+*.png
+*.jpeg

@@ -16,6 +16,6 @@
 *.png
 *.jpeg
 *.svg
-*.tsp
 
 __pycache__
+!/Dataset/

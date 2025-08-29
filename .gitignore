@@ -15,3 +15,7 @@
 *.pdf
 *.png
 *.jpeg
+*.svg
+*.tsp
+
+__pycache__
